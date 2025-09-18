@@ -4,6 +4,6 @@ cl-cffi-cairo is a Lisp binding to the Cairo library.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/crategus/cl-cffi-cairo.git |
-| commit  | 1d415ee                                           |
+| commit  | 3b42543                                           |
 | systems | cl-cffi-cairo                                     |
 |---------+---------------------------------------------------|
